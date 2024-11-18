@@ -36,10 +36,10 @@ cd ...
 python -m venv venv
 source env/bin/activate
 
-3. Установка всех зависимостей 
+3. Установка всех зависимостей. 
 pip install -r requirements.txt
 
-4. Запуск проекта
+4. Запуск проекта.
 python main.py
 
 
