@@ -1,5 +1,3 @@
-
-
 Название
 Платформа для трейдинга для анализа курсов кросс пар
 
@@ -48,6 +46,8 @@ MIT
 
 Авторы и контакты:
 To contact the author, write to the following email A7010020@yandex.ru
+
+
 
 
 
